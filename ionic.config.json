@@ -1,0 +1,7 @@
+{
+  "name": "SchoolOption",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
